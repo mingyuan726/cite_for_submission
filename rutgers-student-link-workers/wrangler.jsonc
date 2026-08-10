@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "rutgers-student-link",
+  "name": "cite-for-submission",
   "compatibility_date": "2026-08-02",
   "assets": {
     "directory": "./site"
